@@ -11,5 +11,3 @@ def api_info(a, b):
     return str(a+b)
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
